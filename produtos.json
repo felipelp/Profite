@@ -1,0 +1,12 @@
+{ "produtos" : [
+   {"id": "1","nome":"Bata Bordada","preco":50,"cor": ["cor_amarelo","cor_branco","cor_laranja"],"tamanho": ["M","36"]},
+   {"id": "2","nome":"Chapéu de praia com fivela","preco":300,"cor": "","tamanho": ["G","40"]},
+   {"id": "3","nome":"Vestido texturizado","preco":400,"cor": ["cor_azul","cor_branco"],"tamanho": ["G"]},
+   {"id": "4","nome":"Bata Bordada","preco":320,"cor": ["cor_amarelo"],"tamanho": ["G"]},
+   {"id": "5","nome":"Chapéu de praia com fivela","preco":228,"cor": ["cor_branco"],"tamanho": ["G"]},
+   {"id": "6","nome":"Vestido texturizado","preco":398,"cor": ["cor_branco","cor_azul"],"tamanho": ["G"]},
+   {"id": "7","nome":"Bata Bordada","preco":693,"cor": ["cor_azul"],"tamanho": ["G"]},
+   {"id": "8","nome":"Chapéu de praia com fivela","preco":128,"cor": ["cor_cinza","cor_branco","cor_laranja"],"tamanho": ["G"]},
+   {"id": "9","nome":"Vestido texturizado","preco":152,"cor": ["cor_branco"],"tamanho": ["G","40"]}
+ ]
+}
